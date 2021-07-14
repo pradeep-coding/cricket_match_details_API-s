@@ -1,0 +1,19 @@
+{
+  "name": "player-match-details",
+  "version": "1.0.0",
+  "description": "Given two files `app.js` and a database file `cricketMatchDetails.db` consisting of three tables `player_details`, `match_details` and `player_match_score`.",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1",
+    "nodemon": "2.0.7",
+    "sqlite": "4.0.19",
+    "sqlite3": "5.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
